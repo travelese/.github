@@ -19,7 +19,7 @@
       </b>
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=16&pause=2000&color=ebdbb2&center=true&vCenter=true&width=435&lines=Travel%E2%86%92+Technology"
+        src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=16&pause=2000&color=ebdbb2&center=true&vCenter=true&width=435&lines=Travel+Technology"
         alt="Typing SVG"
       />
     </samp>

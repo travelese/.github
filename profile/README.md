@@ -15,7 +15,7 @@
         advocated for travel writing to be direct and specific, like all good
         writing, rather than affected and ornamental.
         <br />
-        - William Zinsser
+        <br />
       </b>
       <br />
       <img

@@ -10,11 +10,12 @@
         Travelese
         <br />
         is a term Zinsser coined to describe bad travel writing—flowery,
-  clichéd prose that relies on pretentious language and tired metaphors
-  ("azure waters," "exotic locale") instead of clear, honest description. He
-  advocated for travel writing to be direct and specific, like all good
-  writing, rather than affected and ornamental.
-
+        clichéd prose that relies on pretentious language and tired metaphors
+        ("azure waters," "exotic locale") instead of clear, honest description. He
+        advocated for travel writing to be direct and specific, like all good
+        writing, rather than affected and ornamental.
+        <br />
+        - William Zinsser
       </b>
       <br />
       <img
